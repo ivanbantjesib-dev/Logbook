@@ -1,0 +1,11 @@
+{
+  "name": "AeroTrack - Precision GPS & Bluetooth Trip Logger",
+  "description": "Automatic Bluetooth-triggered mileage logger with high-accuracy GPS distance tracking in kilometers, biometric security, dark cockpit HUD, monthly/yearly analytics, and tax-ready CSV exports.",
+  "requestFramePermissions": [
+    "geolocation",
+    "bluetooth"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
